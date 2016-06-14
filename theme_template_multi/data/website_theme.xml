@@ -16,5 +16,11 @@
 </record>
 -->
 
+<record id="custom_layout" model="website.theme.template">
+    <field name="standard">website.layout</field>
+    <field name="name">theme_template_multi.layout</field>
+    <field name="theme_id" ref="theme_template_multi.theme"/>
+</record>
+
 </data>
 </openerp>

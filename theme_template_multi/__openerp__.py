@@ -14,7 +14,6 @@
     "installable": True,
     "depends": [
         "website_multi_theme",
-        "theme_base",
     ],
     "data": [
         "data/website_theme.xml",

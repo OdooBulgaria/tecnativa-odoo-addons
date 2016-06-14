@@ -6,3 +6,4 @@
 from . import ir_qweb
 from . import website
 from . import website_theme
+from . import website_theme_template
